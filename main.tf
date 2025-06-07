@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "my_bucket" {
-  bucket = "bucket571572"
+  bucket = "bucket5715735"
   force_destroy = true
 
   tags = {
